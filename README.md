@@ -1,5 +1,21 @@
 ### Hi there 👋
 
+- iOS/Android Engineer
+
+
+### Sample Codes
+
+https://github.com/usk-sample/
+
+### Zenn
+https://zenn.dev/usk2000
+
+### Qiita
+https://qiita.com/usk2000
+
+### Twitter
+https://twitter.com/U_su_K
+
 <!--
 **usk2000/usk2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
