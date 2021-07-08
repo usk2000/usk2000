@@ -16,6 +16,19 @@ https://qiita.com/usk2000
 ### Twitter
 https://twitter.com/U_su_K
 
+### My Lapras Score
+
+https://lapras.com/public/NBPV9PP
+
+## Stats
+
+<!--
+![usk2000's GitHub stats](https://github-readme-stats.vercel.app/api?username=usk2000)
+-->
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=usk2000)
+
+
 <!--
 **usk2000/usk2000** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
