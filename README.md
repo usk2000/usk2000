@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - iOS/Android Engineer
-
+- If you interest me, please contact from Twitter DM.
 
 ### Sample Codes
 
